@@ -1,8 +1,9 @@
-package com.company;
+package exercise.Stefan;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	Hero stefan = new Hero();
+	stefan.getSpecialPowers();
     }
 }
